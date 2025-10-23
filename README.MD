@@ -60,7 +60,3 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
     <a 
     
 
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
