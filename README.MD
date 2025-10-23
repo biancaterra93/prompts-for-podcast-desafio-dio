@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/Gemini_Generated_Image_nncbz6nncbz6nncb.png"
+    src="./.github/assets/Gemini_Generated_Image_nncbz6nncbz6nncb.png"
     width="300"
 />
 </p>
