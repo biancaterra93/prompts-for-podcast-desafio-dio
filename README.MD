@@ -36,9 +36,12 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - **Áudio gerado pela ElevenLabs**  
   <a href="https://github.com/biancaterra93/prompts-for-podcast-desafio-dio/blob/main/output/ElevenLabs_Podcast.docx.mp3">🎧 Áudio</a>
 
-- **Midjourney** para gerar capas  
+- **Capa gerada pelo Gemini**  
+  <a href="https://github.com/biancaterra93/prompts-for-podcast-desafio-dio/blob/main/.github/assets/Gemini_Generated_Image_nncbz6nncbz6nncb.png">🖼️ Imagem</a>
 
-- **CapCut** para tratar o áudio e adicionar sons de fundo
+- **CapCut** para tratar o áudio e adicionar sons de fundo  
+  <a href="https://github.com/biancaterra93/prompts-for-podcast-desafio-dio/blob/main/output/Podcast%20editado.MP3">🎬 Edição final</a>
+
 
 ## 👨‍💻 Feito por 
 
