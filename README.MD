@@ -31,7 +31,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt 
-Prompt (https://github.com/biancaterra93/prompts-for-podcast-desafio-dio/blob/main/src/prompts/chatgpt.md)
+-[Prompt] (https://github.com/biancaterra93/prompts-for-podcast-desafio-dio/blob/main/src/prompts/chatgpt.md)
 - Audio gerado pela elevenLabs
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
