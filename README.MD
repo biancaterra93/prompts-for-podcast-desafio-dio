@@ -59,11 +59,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
     &nbsp;|&nbsp;
     <a 
     
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+
 
 ---
 
