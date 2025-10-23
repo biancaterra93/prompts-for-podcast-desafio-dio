@@ -42,6 +42,11 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - **CapCut** para tratar o áudio e adicionar sons de fundo  
   <a href="https://github.com/biancaterra93/prompts-for-podcast-desafio-dio/blob/main/output/Podcast%20editado.MP3">🎬 Edição final</a>
 
+🎙️ Podcast Completo
+
+Ouça o episódio final completo com roteiro, narração e edição:
+👉 [Acessar o podcast completo aqui](https://on.soundcloud.com/pXPPO8Fy2I0EmFS2Es)
+
 
 ## 👨‍💻 Feito por 
 
