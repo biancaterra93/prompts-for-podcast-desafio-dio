@@ -43,7 +43,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src=".github/assets/1690388755527.jpg"
     />
     <p>&nbsp&nbsp&nbspBiancaTerra<br>
     &nbsp&nbsp&nbsp
